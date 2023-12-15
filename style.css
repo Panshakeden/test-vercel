@@ -1,0 +1,9 @@
+.container input{
+    padding: 10px;
+    margin: 10px;
+}
+.container{
+    background: red;
+    margin-left: 200px;
+    margin-right: 700px;
+}
